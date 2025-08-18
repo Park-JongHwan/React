@@ -13,3 +13,6 @@
 ### props에서 js는 타입을 명시X, ts는 타입을 지정해준다
 
 ### useState는 props 상태 값을 변경할 때 사용
+
+### vs code extensions -> Simple React Snippets, Typescript React code snippets, 
+
