@@ -16,3 +16,7 @@
 
 ### vs code extensions -> Simple React Snippets, Typescript React code snippets, 
 
+### ts에서 interface, type으로 도메인 설계 할 수 있다.
+
+### airbnb 리액트 스타일 가이드 // 코드 컨벤션 참고 가능
+
