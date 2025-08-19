@@ -14,6 +14,6 @@ return (
   </div>
 );
 ```
-
 {...acc} -> 펼침연산자
 
+### 숫자 ex) 1,000,000 으로 변환하려면 toLocaleString()
