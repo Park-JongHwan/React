@@ -1,4 +1,4 @@
-
+## React 리스트 렌더링 map + key
 ```javascript
 
 const accounts: Account[] = [
@@ -16,3 +16,4 @@ return (
 ```
 
 {...acc} -> 펼침연산자
+
