@@ -22,3 +22,4 @@ zustand - 전역 상태 관리 라이브러리
 zustand-middleware localstorage 처리 관련 라이브러리
 vue에선 vuex 사용
 
+ide - vs code, kiro(아직 안됨), cursor, windsurf
